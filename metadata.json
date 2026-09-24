@@ -1,0 +1,7 @@
+{
+  "uuid": "flameshot-screenshot-button@ericmiguel.github.io",
+  "name": "Flameshot Screenshot Button",
+  "description": "Replaces GNOME's built-in Quick Settings screenshot button with Flameshot",
+  "shell-version": ["50"],
+  "version": 1
+}
